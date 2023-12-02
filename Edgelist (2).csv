@@ -1,0 +1,17 @@
+from,to,weight
+A,E,1
+B,E,2
+C,E,3
+D,E,2
+A,B,1
+B,A,1
+A,C,1
+B,C,1
+A,D,
+B,D,1
+C,A,
+C,B,1
+C,D,
+D,A,
+D,B,
+D,C,
